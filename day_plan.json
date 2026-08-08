@@ -1,0 +1,31 @@
+{
+  "90_day_plan": {
+    "days_1_30": {
+      "focus": "Foundation",
+      "goal": "",
+      "activities": [],
+      "time_required": "",
+      "cost": "",
+      "milestone": "",
+      "expected_outcome": ""
+    },
+    "days_31_60": {
+      "focus": "Practice",
+      "goal": "",
+      "activities": [],
+      "time_required": "",
+      "cost": "",
+      "milestone": "",
+      "expected_outcome": ""
+    },
+    "days_61_90": {
+      "focus": "Portfolio and Career Readiness",
+      "goal": "",
+      "activities": [],
+      "time_required": "",
+      "cost": "",
+      "milestone": "",
+      "expected_outcome": ""
+    }
+  }
+}
