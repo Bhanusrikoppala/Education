@@ -1,0 +1,11 @@
+{
+  "recovery_plan": {
+    "missed_tasks": [],
+    "essential_tasks": [],
+    "tasks_to_delay": [],
+    "tasks_to_remove": [],
+    "revised_schedule": "",
+    "new_timeline": "",
+    "restart_action": ""
+  }
+}
