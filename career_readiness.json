@@ -1,0 +1,16 @@
+{
+  "career_readiness": {
+    "score": 0,
+    "scale": "0-100",
+    "career_clarity": 0,
+    "transferable_skills": 0,
+    "skill_readiness": 0,
+    "practical_experience": 0,
+    "portfolio_evidence": 0,
+    "interview_readiness": 0,
+    "networking_readiness": 0,
+    "strongest_area": "",
+    "biggest_gap": "",
+    "top_actions": []
+  }
+}
